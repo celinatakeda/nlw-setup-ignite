@@ -1,2 +1,3 @@
-# nlw-setup-ignite
- Aplicação desenvolvida no evento do NLW Setup - Ignite
+# Habits
+Neste projeto criamos um sistema de hábitos de uma pessoa.
+
