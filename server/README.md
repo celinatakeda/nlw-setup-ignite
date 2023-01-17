@@ -68,3 +68,16 @@ Abrir um navegador do banco de dados
 ```
   npx prisma studio
 ```
+
+## Configurando CORS
+Mecanismo de segurança.
+
+Quais aplicações vão poder acessar o backend
+
+Instalando fastify cors
+
+Permitir que o frontend acesse os dados do backend
+```
+  npm i @fastify/cors
+```
+
