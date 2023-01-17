@@ -1,3 +1,3 @@
 # Habits
-Neste projeto criamos um sistema de hábitos de uma pessoa.
+Neste projeto criamos um projeto de lembretes de hábitos.
 

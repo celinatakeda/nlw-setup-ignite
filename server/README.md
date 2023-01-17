@@ -1,4 +1,4 @@
-# Backend
+# Back-end API RESTfull
 Construindo o backend com Node.js.
 
 ## Criando projeto
@@ -41,4 +41,30 @@ Construindo o backend com Node.js.
 ## Rodar 
 ```
   npm run dev
+```
+
+## Configurando o Prisma
+Instalando o prisma
+```
+  npm i -D prisma
+```
+
+Instalando o prisma client
+```
+  npm i @prisma/client
+```
+
+Rodar prisma
+```
+  npx prisma init --datasource-provider SQLite
+```
+
+Rodar 
+```
+  npx prisma migrate dev
+```
+
+Abrir um navegador do banco de dados
+```
+  npx prisma studio
 ```
