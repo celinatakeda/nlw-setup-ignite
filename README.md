@@ -1,2 +1,3 @@
 # Habits
-Criando uma aplicação de hábitos de um usuário.
+Criando uma aplicação onde marcamos os hábitos que foram completados dos dias do calendário.
+
