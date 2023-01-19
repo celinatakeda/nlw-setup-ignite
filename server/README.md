@@ -105,3 +105,7 @@ npm i dayjs
 ## Links
 https://www.npmjs.com/package/prisma-erd-generator
 
+Converter a data em número
+
+https://www.epochconverter.com/
+
