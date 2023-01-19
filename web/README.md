@@ -24,8 +24,15 @@ npm i dayjs
 
 ## Instalando componente Dialog do Radix
 Bibliotecas de componentes
-
+ ```
+Dialog
 npm install @radix-ui/react-dialog
+
+Popover
+npm install @radix-ui/react-popover
+
+
+```
 
 ## Links
 
