@@ -81,3 +81,27 @@ Permitir que o frontend acesse os dados do backend
   npm i @fastify/cors
 ```
 
+Instalando prisma erd
+
+Gerador de diagramas
+
+npm i -D prisma-erd-generator @mermaid-js/mermaid-cli
+
+## Rodar
+npx prisma generate
+
+## Criando SEAD
+Popular de banco de dados, ou seja, cria um banco de dados ficticio para não deixar o banco de dados vazio.
+
+## Rodar
+npx prisma db seed
+
+Instalando biblioteca zod, dayjs
+
+npm i zod
+
+npm i dayjs
+
+## Links
+https://www.npmjs.com/package/prisma-erd-generator
+

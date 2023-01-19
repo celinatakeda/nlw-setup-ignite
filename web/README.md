@@ -15,3 +15,9 @@ npm install -D tailwindcss postcss autoprefixer
 
 ## Rodar
 npx tailwindcss init -p
+
+Instalando a biblioteca phosphor icon
+
+npm i phosphor-react
+
+npm i dayjs

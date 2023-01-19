@@ -15,7 +15,38 @@ npx expo start --clear
   npx expo install expo-font @expo-google-fonts/inter
 ```
 
+Instalando o nativewind
+
+npm i nativewind
+
+npm i tailwindcss --save-dev
+
+Criando tailwind.config.js
+
+npx tailwindcss init
+
+Acrescentar no babel.config.js
+
+plugins: ["nativewind/babel"],
+
+## Executando a aplicação
+
+npx expo start
+
+## Para rodar o svg do logo
+
+npx expo install react-native-svg
+
+npm i react-native-svg-transformer --save-dev
+
+## Intalar dayjs
+Para manipulara datas
+
+npm install dayjs
+
 ## Links
 https://docs.expo.dev
+
+https://www.nativewind.dev/
 
 https://github.com/rocketseat-education/nlw-setup-ignite
