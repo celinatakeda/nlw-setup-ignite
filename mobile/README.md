@@ -44,9 +44,17 @@ Para manipulara datas
 
 npm install dayjs
 
+## Intalando react navigation e sua dependências
+
+npm install @react-navigation/native
+
+npx expo install react-native-screens react-native-safe-area-context
+
+npm install @react-navigation/native-stack
+
 ## Links
 https://docs.expo.dev
 
 https://www.nativewind.dev/
 
-https://github.com/rocketseat-education/nlw-setup-ignite
+https://reactnavigation.org/

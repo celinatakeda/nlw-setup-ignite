@@ -31,8 +31,11 @@ npm install @radix-ui/react-dialog
 Popover
 npm install @radix-ui/react-popover
 
-
 ```
+
+Instalando biblioteca clsx
+
+npm i clsx
 
 ## Links
 
