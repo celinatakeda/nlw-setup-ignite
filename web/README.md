@@ -22,7 +22,7 @@ npm i phosphor-react
 
 npm i dayjs
 
-## Instalando componente Dialog do Radix
+## Instalando componente do Radix
 Bibliotecas de componentes
  ```
 Dialog
@@ -31,11 +31,18 @@ npm install @radix-ui/react-dialog
 Popover
 npm install @radix-ui/react-popover
 
+Checkbox
+npm install @radix-ui/react-checkbox
+
 ```
 
 Instalando biblioteca clsx
 
 npm i clsx
+
+Instalando axios
+
+npm i axios
 
 ## Links
 
