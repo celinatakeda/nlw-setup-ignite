@@ -52,6 +52,9 @@ npx expo install react-native-screens react-native-safe-area-context
 
 npm install @react-navigation/native-stack
 
+## Intalando Axios
+npm i axios
+
 ## Links
 https://docs.expo.dev
 
