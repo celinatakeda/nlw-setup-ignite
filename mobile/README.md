@@ -55,6 +55,10 @@ npm install @react-navigation/native-stack
 ## Intalando Axios
 npm i axios
 
+## Instalando clsx
+
+npm install --save clsx
+
 ## Links
 https://docs.expo.dev
 
