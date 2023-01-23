@@ -68,7 +68,7 @@ npx expo install react-native-reanimated
 npx expo start --clear
 
 <p>
-  <img src=".github/loading.jpg">
+  <img src=".github/loading.jpg" width=500>
 </p>
 
 ## Links
