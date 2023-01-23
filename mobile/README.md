@@ -59,9 +59,17 @@ npm i axios
 
 npm install --save clsx
 
+## Intalando reanimated do react native
+npx expo install react-native-reanimated
+
+## Rodar usando clear
+npx expo start --clear
+
 ## Links
 https://docs.expo.dev
 
 https://www.nativewind.dev/
 
 https://reactnavigation.org/
+
+https://www.reanimated2.com/
