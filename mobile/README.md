@@ -73,6 +73,9 @@ npx expo start --clear
   <img src=".github/loading.jpg" width=200>
   <img src=".github/habito1.jpg" width=200>
   <img src=".github/cadastrarHabito.jpg" width=200>
+  <img src=".github/habitoCriadoComSucesso.jpg" width=200>
+  <img src=".github/habito2.jpg" width=200>
+  
 </p>
 
 ## Links
