@@ -1,14 +1,16 @@
 # Mobile
 ## Configurando o ambiente
 ## Criando o projeto mobile
-
-npx create-expo-app mobile --template
+```
+  npx create-expo-app mobile --template
+```
 
 ## Executando a aplicação
+```
+  npx expo start
 
-npx expo start
-
-npx expo start --clear
+  npx expo start --clear
+```
 
 ## Instalando fontes personalizadas 
 ```
@@ -64,6 +66,10 @@ npx expo install react-native-reanimated
 
 ## Rodar usando clear
 npx expo start --clear
+
+<p>
+  <img src=".github/loading.jpg">
+</p>
 
 ## Links
 https://docs.expo.dev
