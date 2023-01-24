@@ -32,37 +32,45 @@ Acrescentar no babel.config.js
 plugins: ["nativewind/babel"],
 
 ## Executando a aplicação
-
-npx expo start
-
+```
+  npx expo start
+```
 ## Para rodar o svg do logo
+```
+  npx expo install react-native-svg
 
-npx expo install react-native-svg
-
-npm i react-native-svg-transformer --save-dev
+  npm i react-native-svg-transformer --save-dev
+```
 
 ## Intalar dayjs
 Para manipulara datas
-
-npm install dayjs
+```
+  npm install dayjs
+```
 
 ## Intalando react navigation e sua dependências
+```
+  npm install @react-navigation/native
 
-npm install @react-navigation/native
+  npx expo install react-native-screens react-native-safe-area-context
 
-npx expo install react-native-screens react-native-safe-area-context
-
-npm install @react-navigation/native-stack
+  npm install @react-navigation/native-stack
+```
 
 ## Intalando Axios
-npm i axios
+```
+  npm i axios
+```
 
 ## Instalando clsx
-
-npm install --save clsx
+```
+  npm install --save clsx
+```
 
 ## Intalando reanimated do react native
-npx expo install react-native-reanimated
+```
+  npx expo install react-native-reanimated
+```
 
 ## Rodar usando clear
 ```
@@ -70,7 +78,6 @@ npx expo install react-native-reanimated
 ```
 
 ## Visual do projeto
-
 <p>
   <img src=".github/loading.jpg" width=200>
   <img src=".github/habito1.jpg" width=200>
