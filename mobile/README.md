@@ -17,19 +17,22 @@
   npx expo install expo-font @expo-google-fonts/inter
 ```
 
-Instalando o nativewind
+## Instalando o nativewind
+```
+  npm i nativewind
 
-npm i nativewind
+  npm i tailwindcss --save-dev
+```
 
-npm i tailwindcss --save-dev
+## Criando tailwind.config.js
+```
+  npx tailwindcss init
+```
 
-Criando tailwind.config.js
-
-npx tailwindcss init
-
-Acrescentar no babel.config.js
-
-plugins: ["nativewind/babel"],
+## Acrescentar no babel.config.js
+```
+  plugins: ["nativewind/babel"],
+```
 
 ## Executando a aplicação
 ```
