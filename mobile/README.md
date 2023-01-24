@@ -65,7 +65,9 @@ npm install --save clsx
 npx expo install react-native-reanimated
 
 ## Rodar usando clear
-npx expo start --clear
+```
+  npx expo start --clear
+```
 
 ## Visual do projeto
 
@@ -75,7 +77,7 @@ npx expo start --clear
   <img src=".github/cadastrarHabito.jpg" width=200>
   <img src=".github/habitoCriadoComSucesso.jpg" width=200>
   <img src=".github/habito2.jpg" width=200>
-  
+  <img src=".github/habito.jpg" width=200>
 </p>
 
 ## Links
