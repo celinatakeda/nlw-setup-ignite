@@ -102,6 +102,15 @@ npm i zod
 
 npm i dayjs
 
+## Aula extra - implementando Notificação
+Instalando web push
+
+Trabalhando com api push manager dentro do lado do backend(Node)
+
+npm i web-push
+
+npm i @types/web-push -D
+
 ## Links
 https://www.npmjs.com/package/prisma-erd-generator
 
