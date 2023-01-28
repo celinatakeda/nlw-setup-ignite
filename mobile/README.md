@@ -90,6 +90,11 @@ Para manipulara datas
   <img src=".github/habito.jpg" width=200>
 </p>
 
+## Notificação local
+Instalando expo notifications
+
+npx expo install expo-notifications
+
 ## Links
 https://docs.expo.dev
 

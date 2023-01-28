@@ -39,6 +39,5 @@ export function App() {
   )
 }
 
-
 // Componente: Reaproveitar / isolar
 //Propriedade: Uma informação enviada pra modificar um componente visual ou comportamentalmente
